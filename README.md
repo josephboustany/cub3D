@@ -238,8 +238,8 @@ It was not used to write the parser, the raycasting code, or anything else in `s
 
 ## Authors
 
-- **nassaf** — 42 Beirut
-- **jboustan** — 42 Beirut
+- **nassaf** — 42 Beirut · [github.com/nassaf338](https://github.com/nassaf338)
+- **jboustan** — 42 Beirut · [github.com/josephboustany](https://github.com/josephboustany)
 
 ---
 
